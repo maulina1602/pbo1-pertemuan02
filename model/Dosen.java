@@ -1,5 +1,6 @@
 package model;
 
+
 public class Dosen{
  public static void tampilanInfo(){
   System.out.println();
